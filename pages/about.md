@@ -17,7 +17,7 @@ This is a demo collection to practice using CB-GH. I want to learn how:
 - To use Markdown
 - To use the GitHub web interface.
 - To learn how to better represent subjects using detailed descriptions.
-- To one day understand why I cannot change the photo on the About Page
+- To one day include more images in a repository.
 
 ## Collection History
 
