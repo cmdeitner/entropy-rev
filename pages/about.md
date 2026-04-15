@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="entropy006" width="75" caption="Rehearsal" %}
+{% include feature/image.html objectid="entropy006" caption="Rehearsal" %}
 
 ## About the Collection
 
@@ -17,6 +17,7 @@ This is a demo collection to practice using CB-GH. I want to learn how:
 - To use Markdown
 - To use the GitHub web interface.
 - To learn how to better represent subjects using detailed descriptions.
+- To one day understand why I cannot change the photo on the About Page
 
 ## Collection History
 
